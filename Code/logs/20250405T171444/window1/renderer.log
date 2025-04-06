@@ -1,0 +1,108 @@
+2025-04-05 17:14:45.682 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-05 17:14:45.682 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-05 17:14:45.682 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-05 17:14:45.959 [error] ChatSessionStore: Error reading chat session file 8a272a5f-3308-48b6-ad65-e0ec4b6d6e87 Unable to read file '/home/shiy/.config/Code/User/workspaceStorage/no-workspace/chatSessions/8a272a5f-3308-48b6-ad65-e0ec4b6d6e87.json' (Error: Unable to resolve nonexistent file '/home/shiy/.config/Code/User/workspaceStorage/no-workspace/chatSessions/8a272a5f-3308-48b6-ad65-e0ec4b6d6e87.json')
+2025-04-05 17:14:46.027 [info] Started local extension host with pid 75983.
+2025-04-05 17:14:46.978 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-05 17:14:48.652 [error] No default agent registered: CodeExpectedError: No default agent registered
+    at jZ.Z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1965:31091)
+2025-04-05 17:14:48.706 [info] [perf] Render performance baseline is 16ms
+2025-04-05 17:14:49.991 [error] An unknown error occurred. Please consult the log for more details.
+2025-04-05 17:14:57.509 [error] ChatSessionStore: Error reading chat session file 72e6b6bd-04ad-4b61-b7d0-1928d5c2a5c9 Unable to read file '/home/shiy/.config/Code/User/workspaceStorage/no-workspace/chatSessions/72e6b6bd-04ad-4b61-b7d0-1928d5c2a5c9.json' (Error: Unable to resolve nonexistent file '/home/shiy/.config/Code/User/workspaceStorage/no-workspace/chatSessions/72e6b6bd-04ad-4b61-b7d0-1928d5c2a5c9.json')
+2025-04-05 17:19:03.932 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-05 17:19:03.932 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-05 17:19:03.932 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-05 17:19:04.011 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-04-05 17:19:04.111 [info] Started local extension host with pid 77022.
+2025-04-05 17:19:04.573 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-05 17:19:06.735 [info] [perf] Render performance baseline is 16ms
+2025-04-05 17:19:09.875 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:09.875 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:09.880 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:09.935 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:09.936 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:09.937 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:09.937 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:09.937 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:09.937 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:09.938 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:09.938 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:09.959 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:10.016 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:10.056 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:10.056 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:10.056 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:10.057 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:10.057 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:10.057 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:10.057 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:10.057 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:10.057 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:10.071 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-04-05 17:19:10.071 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-04-05 17:19:10.082 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-04-05 17:19:10.082 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-04-05 17:19:10.124 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:10.515 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:19:10.516 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:18.752 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:18.819 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:18.819 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:18.820 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:18.820 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:18.820 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:18.845 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:18.910 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:18.911 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:18.940 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:18.940 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:19.394 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:19.547 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:19.547 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:20.434 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:20.469 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:47.887 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:47.887 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:47.888 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:47.888 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:47.889 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:47.889 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:47.890 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:47.891 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:47.915 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:47.965 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:48.014 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:48.014 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:48.015 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:48.015 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:48.015 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:48.040 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:48.104 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:48.104 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:48.555 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:48.555 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:48.750 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:48.875 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:20:48.897 [error] [Extension Host] Notification handler 'window/logMessage' failed with message: Channel has been closed
+2025-04-05 17:22:26.391 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-05 17:22:26.391 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-05 17:22:26.391 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-05 17:22:26.480 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-04-05 17:22:26.586 [info] Started local extension host with pid 78160.
+2025-04-05 17:22:26.931 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-05 17:22:29.400 [info] [perf] Render performance baseline is 17ms
+2025-04-05 17:22:30.727 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-04-05 17:22:30.728 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-04-05 17:22:30.733 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-04-05 17:22:30.734 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-04-05 17:22:43.534 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-05 17:22:43.534 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-05 17:22:43.534 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-05 17:22:43.591 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-04-05 17:22:43.722 [info] Started local extension host with pid 78291.
+2025-04-05 17:22:44.110 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-05 17:22:46.284 [info] [perf] Render performance baseline is 16ms
+2025-04-05 17:22:48.212 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-04-05 17:22:48.212 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-04-05 17:22:48.218 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-04-05 17:22:48.218 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess

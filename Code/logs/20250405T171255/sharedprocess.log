@@ -1,0 +1,60 @@
+2025-04-05 17:13:03.457 [info] Getting Manifest... ms-python.python
+2025-04-05 17:13:03.510 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/shiy/.vscode/extensions/extensions.json","path":"/home/shiy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.0","date":"2025-04-02T21:35:19.530Z"}}
+2025-04-05 17:13:03.729 [info] Getting Manifest... ms-python.vscode-pylance
+2025-04-05 17:13:03.744 [info] Getting Manifest... ms-python.debugpy
+2025-04-05 17:13:03.773 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/shiy/.vscode/extensions/extensions.json","path":"/home/shiy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.0","date":"2025-04-02T21:35:19.530Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-04-05 17:13:03.774 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/shiy/.vscode/extensions/extensions.json","path":"/home/shiy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.0","date":"2025-04-02T21:35:19.530Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-04-05 17:13:05.871 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 647ms.
+2025-04-05 17:13:05.983 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 657ms.
+2025-04-05 17:13:06.236 [info] Extracted extension to file:///home/shiy/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64: ms-python.debugpy
+2025-04-05 17:13:06.332 [info] Renamed to /home/shiy/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64
+2025-04-05 17:13:06.834 [info] Extracted extension to file:///home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64: ms-python.python
+2025-04-05 17:13:06.941 [info] Renamed to /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64
+2025-04-05 17:13:07.425 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 692ms.
+2025-04-05 17:13:08.613 [info] Getting Manifest... esbenp.prettier-vscode
+2025-04-05 17:13:08.659 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/shiy/.vscode/extensions/extensions.json","path":"/home/shiy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.0","date":"2025-04-02T21:35:19.530Z"}}
+2025-04-05 17:13:09.464 [info] Extracted extension to file:///home/shiy/.vscode/extensions/ms-python.vscode-pylance-2025.4.1: ms-python.vscode-pylance
+2025-04-05 17:13:09.719 [info] Renamed to /home/shiy/.vscode/extensions/ms-python.vscode-pylance-2025.4.1
+2025-04-05 17:13:09.823 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/shiy/.vscode/extensions/extensions.json
+2025-04-05 17:13:09.823 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/shiy/.vscode/extensions/extensions.json
+2025-04-05 17:13:09.824 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/shiy/.vscode/extensions/extensions.json
+2025-04-05 17:13:09.884 [info] Extension signature verification result for esbenp.prettier-vscode: Success. Internal Code: 0. Executed: true. Duration: 636ms.
+2025-04-05 17:13:09.942 [info] Extracted extension to file:///home/shiy/.vscode/extensions/esbenp.prettier-vscode-11.0.0: esbenp.prettier-vscode
+2025-04-05 17:13:09.992 [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+2025-04-05 17:13:10.014 [info] Renamed to /home/shiy/.vscode/extensions/esbenp.prettier-vscode-11.0.0
+2025-04-05 17:13:10.040 [info] Installing extension: visualstudioexptteam.vscodeintellicode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/shiy/.vscode/extensions/extensions.json","path":"/home/shiy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.0","date":"2025-04-02T21:35:19.530Z"}}
+2025-04-05 17:13:10.151 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/shiy/.vscode/extensions/extensions.json
+2025-04-05 17:13:10.221 [info] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+2025-04-05 17:13:10.250 [info] Installing extension: visualstudioexptteam.intellicode-api-usage-examples {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/shiy/.vscode/extensions/extensions.json","path":"/home/shiy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.0","date":"2025-04-02T21:35:19.530Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-04-05 17:13:11.597 [info] Extension signature verification result for visualstudioexptteam.intellicode-api-usage-examples: Success. Internal Code: 0. Executed: true. Duration: 626ms.
+2025-04-05 17:13:11.669 [info] Extracted extension to file:///home/shiy/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9: visualstudioexptteam.intellicode-api-usage-examples
+2025-04-05 17:13:11.758 [info] Renamed to /home/shiy/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9
+2025-04-05 17:13:14.078 [info] Extension signature verification result for visualstudioexptteam.vscodeintellicode: Success. Internal Code: 0. Executed: true. Duration: 688ms.
+2025-04-05 17:13:14.366 [info] Extracted extension to file:///home/shiy/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2: visualstudioexptteam.vscodeintellicode
+2025-04-05 17:13:14.485 [info] Renamed to /home/shiy/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.3.2
+2025-04-05 17:13:14.591 [info] Extension installed successfully: visualstudioexptteam.intellicode-api-usage-examples vscode-userdata:/home/shiy/.vscode/extensions/extensions.json
+2025-04-05 17:13:14.591 [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode vscode-userdata:/home/shiy/.vscode/extensions/extensions.json
+2025-04-05 17:13:19.334 [info] Getting Manifest... github.copilot
+2025-04-05 17:13:19.404 [info] Installing extension: github.copilot {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/shiy/.vscode/extensions/extensions.json","path":"/home/shiy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.0","date":"2025-04-02T21:35:19.530Z"}}
+2025-04-05 17:13:19.981 [info] Getting Manifest... github.copilot-chat
+2025-04-05 17:13:20.010 [info] Installing extension: github.copilot-chat {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/shiy/.vscode/extensions/extensions.json","path":"/home/shiy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.0","date":"2025-04-02T21:35:19.530Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-04-05 17:13:21.483 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 692ms.
+2025-04-05 17:13:21.668 [info] Extracted extension to file:///home/shiy/.vscode/extensions/github.copilot-chat-0.26.0: github.copilot-chat
+2025-04-05 17:13:21.754 [info] Renamed to /home/shiy/.vscode/extensions/github.copilot-chat-0.26.0
+2025-04-05 17:13:21.956 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 694ms.
+2025-04-05 17:13:22.189 [info] Getting Manifest... pkief.material-icon-theme
+2025-04-05 17:13:22.196 [info] Extracted extension to file:///home/shiy/.vscode/extensions/github.copilot-1.296.0: github.copilot
+2025-04-05 17:13:22.226 [info] Installing extension: pkief.material-icon-theme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/shiy/.vscode/extensions/extensions.json","path":"/home/shiy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.0","date":"2025-04-02T21:35:19.530Z"}}
+2025-04-05 17:13:22.296 [info] Renamed to /home/shiy/.vscode/extensions/github.copilot-1.296.0
+2025-04-05 17:13:22.401 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/shiy/.vscode/extensions/extensions.json
+2025-04-05 17:13:22.402 [info] Extension installed successfully: github.copilot vscode-userdata:/home/shiy/.vscode/extensions/extensions.json
+2025-04-05 17:13:23.414 [info] Extension signature verification result for pkief.material-icon-theme: Success. Internal Code: 0. Executed: true. Duration: 663ms.
+2025-04-05 17:13:23.719 [info] Extracted extension to file:///home/shiy/.vscode/extensions/pkief.material-icon-theme-5.21.2: pkief.material-icon-theme
+2025-04-05 17:13:23.816 [info] Renamed to /home/shiy/.vscode/extensions/pkief.material-icon-theme-5.21.2
+2025-04-05 17:13:23.926 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/shiy/.vscode/extensions/extensions.json
+2025-04-05 17:13:54.810 [info] Getting Manifest... miguelsolorio.symbols
+2025-04-05 17:13:54.891 [info] Installing extension: miguelsolorio.symbols {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/shiy/.vscode/extensions/extensions.json","path":"/home/shiy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.0","date":"2025-04-02T21:35:19.530Z"}}
+2025-04-05 17:13:57.124 [info] Extension signature verification result for miguelsolorio.symbols: Success. Internal Code: 0. Executed: true. Duration: 654ms.
+2025-04-05 17:13:57.312 [info] Extracted extension to file:///home/shiy/.vscode/extensions/miguelsolorio.symbols-0.0.22: miguelsolorio.symbols
+2025-04-05 17:13:57.412 [info] Renamed to /home/shiy/.vscode/extensions/miguelsolorio.symbols-0.0.22
+2025-04-05 17:13:57.520 [info] Extension installed successfully: miguelsolorio.symbols vscode-userdata:/home/shiy/.vscode/extensions/extensions.json

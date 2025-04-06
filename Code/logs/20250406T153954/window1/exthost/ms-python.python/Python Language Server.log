@@ -1,0 +1,192 @@
+2025-04-06 15:43:01.226 [info] (Client) Pylance async client (2025.4.1) started with python extension (2025.4.0)
+2025-04-06 15:43:01.350 [info] [Info  - 3:43:01 PM] (8571) Server root directory: file:///home/shiy/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-04-06 15:43:01.351 [info] [Info  - 3:43:01 PM] (8571) Pylance language server 2025.4.1 (pyright version 1.1.398, commit 4f24eccc) starting
+2025-04-06 15:43:01.355 [info] [Info  - 3:43:01 PM] (8571) Starting service instance "FastAPI-ToDoList" for workspace "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList"
+2025-04-06 15:43:01.410 [info] [Info  - 3:43:01 PM] (8571) Loading pyproject.toml file at /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml
+2025-04-06 15:43:01.411 [info] [Info  - 3:43:01 PM] (8571) Pyproject file "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml" has no "[tool.pyright]" section.
+2025-04-06 15:43:01.412 [info] [Info  - 3:43:01 PM] (8571) Setting environmentName for service "FastAPI-ToDoList": "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python"
+2025-04-06 15:43:01.412 [info] [Info  - 3:43:01 PM] (8571) No include entries specified; assuming /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList
+2025-04-06 15:43:01.413 [info] [Info  - 3:43:01 PM] (8571) Auto-excluding **/node_modules
+2025-04-06 15:43:01.413 [info] [Info  - 3:43:01 PM] (8571) Auto-excluding **/__pycache__
+2025-04-06 15:43:01.413 [info] [Info  - 3:43:01 PM] (8571) Auto-excluding **/.*
+2025-04-06 15:43:01.413 [info] [Error - 3:43:01 PM] (8571) venvPath /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv is not a valid directory.
+2025-04-06 15:43:01.433 [info] [Info  - 3:43:01 PM] (8571) Assuming Python version 3.12.3.final.0
+2025-04-06 15:43:01.705 [info] [Info  - 3:43:01 PM] (8571) Found 3 source files
+2025-04-06 15:43:01.730 [info] [Info  - 3:43:01 PM] (8571) Loading pyproject.toml file at /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml
+2025-04-06 15:43:01.730 [info] [Info  - 3:43:01 PM] (8571) Pyproject file "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml" has no "[tool.pyright]" section.
+2025-04-06 15:43:01.730 [info] [Info  - 3:43:01 PM] (8571) Setting environmentName for service "FastAPI-ToDoList": "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python"
+2025-04-06 15:43:01.730 [info] [Info  - 3:43:01 PM] (8571) No include entries specified; assuming /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList
+2025-04-06 15:43:01.730 [info] [Info  - 3:43:01 PM] (8571) Auto-excluding **/node_modules
+2025-04-06 15:43:01.730 [info] [Info  - 3:43:01 PM] (8571) Auto-excluding **/__pycache__
+2025-04-06 15:43:01.730 [info] [Info  - 3:43:01 PM] (8571) Auto-excluding **/.*
+2025-04-06 15:43:01.730 [info] [Error - 3:43:01 PM] (8571) venvPath /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv is not a valid directory.
+2025-04-06 15:43:01.754 [info] [Info  - 3:43:01 PM] (8571) Assuming Python version 3.12.3.final.0
+2025-04-06 15:43:01.801 [info] [Info  - 3:43:01 PM] (8571) Found 3 source files
+2025-04-06 15:43:02.083 [info] [Info  - 3:43:02 PM] (8571) BG: Priority queue background worker(2) root directory: file:///home/shiy/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-04-06 15:43:02.083 [info] [Info  - 3:43:02 PM] (8571) BG: Priority queue background worker(2) started
+2025-04-06 15:43:02.237 [info] [Info  - 3:43:02 PM] (8571) Starting service instance "<default>" for workspace ""
+2025-04-06 15:43:02.285 [info] [Info  - 3:43:02 PM] (8571) Setting environmentName for service "<default>": "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python"
+2025-04-06 15:43:02.285 [info] [Info  - 3:43:02 PM] (8571) No include entries specified; assuming /<default workspace root>
+2025-04-06 15:43:02.285 [info] [Info  - 3:43:02 PM] (8571) Auto-excluding **/node_modules
+2025-04-06 15:43:02.286 [info] [Info  - 3:43:02 PM] (8571) Auto-excluding **/__pycache__
+2025-04-06 15:43:02.286 [info] [Info  - 3:43:02 PM] (8571) Auto-excluding **/.*
+2025-04-06 15:43:02.340 [info] [Info  - 3:43:02 PM] (8571) Assuming Python version 3.12.3.final.0
+2025-04-06 15:43:02.395 [info] [Error - 3:43:02 PM] (8571) File or directory "/<default workspace root>" does not exist.
+2025-04-06 15:43:02.395 [info] [Info  - 3:43:02 PM] (8571) No source files found.
+2025-04-06 15:43:02.495 [info] [Info  - 3:43:02 PM] (8571) BG: Indexer background runner(3) root directory: file:///home/shiy/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (index)
+2025-04-06 15:43:02.495 [info] [Info  - 3:43:02 PM] (8571) BG: Indexing(3) started
+2025-04-06 15:43:02.931 [info] [Info  - 3:43:02 PM] (8571) BG: Priority queue background worker(5) root directory: file:///home/shiy/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-04-06 15:43:02.932 [info] [Info  - 3:43:02 PM] (8571) BG: Priority queue background worker(5) started
+2025-04-06 15:43:03.344 [info] [Info  - 3:43:03 PM] (8571) BG: scanned(3) 114 files over 1 exec env
+2025-04-06 15:43:03.931 [info] [Info  - 3:43:03 PM] (8571) BG: indexed(3) 114 files over 1 exec env
+2025-04-06 15:43:03.954 [info] [Info  - 3:43:03 PM] (8571) BG: Indexing finished(3).
+2025-04-06 15:56:46.655 [info] [Info  - 3:56:46 PM] (8571) Loading pyproject.toml file at /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml
+2025-04-06 15:56:46.655 [info] [Info  - 3:56:46 PM] (8571) Pyproject file "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml" has no "[tool.pyright]" section.
+2025-04-06 15:56:46.671 [info] [Info  - 3:56:46 PM] (8571) Setting environmentName for service "FastAPI-ToDoList": "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python"
+2025-04-06 15:56:46.671 [info] [Info  - 3:56:46 PM] (8571) No include entries specified; assuming /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList
+2025-04-06 15:56:46.671 [info] [Info  - 3:56:46 PM] (8571) Auto-excluding **/node_modules
+2025-04-06 15:56:46.672 [info] [Info  - 3:56:46 PM] (8571) Auto-excluding **/__pycache__
+2025-04-06 15:56:46.672 [info] [Info  - 3:56:46 PM] (8571) Auto-excluding **/.*
+2025-04-06 15:56:46.672 [info] [Error - 3:56:46 PM] (8571) venvPath /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv is not a valid directory.
+2025-04-06 15:56:46.681 [info] [Info  - 3:56:46 PM] (8571) Assuming Python version 3.12.3.final.0
+2025-04-06 15:56:46.730 [info] [Info  - 3:56:46 PM] (8571) Found 3 source files
+2025-04-06 15:56:46.776 [info] [Info  - 3:56:46 PM] (8571) Setting environmentName for service "<default>": "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python"
+2025-04-06 15:56:46.776 [info] [Info  - 3:56:46 PM] (8571) No include entries specified; assuming /<default workspace root>
+2025-04-06 15:56:46.776 [info] [Info  - 3:56:46 PM] (8571) Auto-excluding **/node_modules
+2025-04-06 15:56:46.776 [info] [Info  - 3:56:46 PM] (8571) Auto-excluding **/__pycache__
+2025-04-06 15:56:46.776 [info] [Info  - 3:56:46 PM] (8571) Auto-excluding **/.*
+2025-04-06 15:56:46.803 [info] [Info  - 3:56:46 PM] (8571) Assuming Python version 3.12.3.final.0
+2025-04-06 15:56:46.865 [info] [Error - 3:56:46 PM] (8571) File or directory "/<default workspace root>" does not exist.
+2025-04-06 15:56:46.866 [info] [Info  - 3:56:46 PM] (8571) No source files found.
+2025-04-06 15:56:47.301 [info] [Info  - 3:56:47 PM] (8571) BG: Indexer background runner(6) root directory: file:///home/shiy/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (index)
+2025-04-06 15:56:47.301 [info] [Info  - 3:56:47 PM] (8571) BG: Indexing(6) started
+2025-04-06 15:56:47.494 [info] [Info  - 3:56:47 PM] (8571) BG: scanned(6) 114 files over 1 exec env
+2025-04-06 15:56:47.639 [info] [Info  - 3:56:47 PM] (8571) BG: indexed(6) 114 files over 1 exec env
+2025-04-06 15:56:47.660 [info] [Info  - 3:56:47 PM] (8571) BG: Indexing finished(6).
+2025-04-06 15:57:05.682 [info] [Info  - 3:57:05 PM] (8571) Loading pyproject.toml file at /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml
+2025-04-06 15:57:05.683 [info] [Info  - 3:57:05 PM] (8571) Pyproject file "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml" has no "[tool.pyright]" section.
+2025-04-06 15:57:05.683 [info] [Info  - 3:57:05 PM] (8571) Setting environmentName for service "FastAPI-ToDoList": "3.12.3 (fastapi-todolist-R83S90s3-py3.12 venv)"
+2025-04-06 15:57:05.683 [info] [Info  - 3:57:05 PM] (8571) Setting pythonPath for service "FastAPI-ToDoList": "/home/shiy/.cache/pypoetry/virtualenvs/fastapi-todolist-R83S90s3-py3.12/bin/python"
+2025-04-06 15:57:05.683 [info] [Info  - 3:57:05 PM] (8571) No include entries specified; assuming /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList
+2025-04-06 15:57:05.683 [info] [Info  - 3:57:05 PM] (8571) Auto-excluding **/node_modules
+2025-04-06 15:57:05.683 [info] [Info  - 3:57:05 PM] (8571) Auto-excluding **/__pycache__
+2025-04-06 15:57:05.683 [info] [Info  - 3:57:05 PM] (8571) Auto-excluding **/.*
+2025-04-06 15:57:05.683 [info] [Error - 3:57:05 PM] (8571) venvPath /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv is not a valid directory.
+2025-04-06 15:57:05.706 [info] [Info  - 3:57:05 PM] (8571) Assuming Python version 3.12.3.final.0
+2025-04-06 15:57:05.743 [info] [Info  - 3:57:05 PM] (8571) Found 3 source files
+2025-04-06 15:57:05.789 [info] [Info  - 3:57:05 PM] (8571) Setting environmentName for service "<default>": "3.12.3 (fastapi-todolist-R83S90s3-py3.12 venv)"
+2025-04-06 15:57:05.789 [info] [Info  - 3:57:05 PM] (8571) Setting pythonPath for service "<default>": "/home/shiy/.cache/pypoetry/virtualenvs/fastapi-todolist-R83S90s3-py3.12/bin/python"
+2025-04-06 15:57:05.789 [info] [Info  - 3:57:05 PM] (8571) No include entries specified; assuming /<default workspace root>
+2025-04-06 15:57:05.789 [info] [Info  - 3:57:05 PM] (8571) Auto-excluding **/node_modules
+2025-04-06 15:57:05.789 [info] [Info  - 3:57:05 PM] (8571) Auto-excluding **/__pycache__
+2025-04-06 15:57:05.789 [info] [Info  - 3:57:05 PM] (8571) Auto-excluding **/.*
+2025-04-06 15:57:05.814 [info] [Info  - 3:57:05 PM] (8571) Assuming Python version 3.12.3.final.0
+2025-04-06 15:57:05.852 [info] [Error - 3:57:05 PM] (8571) File or directory "/<default workspace root>" does not exist.
+2025-04-06 15:57:05.852 [info] [Info  - 3:57:05 PM] (8571) No source files found.
+2025-04-06 15:57:06.244 [info] [Info  - 3:57:06 PM] (8571) BG: Indexer background runner(7) root directory: file:///home/shiy/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (index)
+2025-04-06 15:57:06.244 [info] [Info  - 3:57:06 PM] (8571) BG: Indexing(7) started
+2025-04-06 15:57:06.498 [info] [Info  - 3:57:06 PM] (8571) BG: scanned(7) 48 files over 1 exec env
+2025-04-06 15:57:07.079 [info] [Info  - 3:57:07 PM] (8571) BG: indexed(7) 48 files over 1 exec env
+2025-04-06 15:57:07.092 [info] [Info  - 3:57:07 PM] (8571) BG: Indexing finished(7).
+2025-04-06 16:02:58.497 [info] [Info  - 4:02:58 PM] (8571) Reloading configuration file at /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml
+2025-04-06 16:02:58.497 [info] [Info  - 4:02:58 PM] (8571) Loading pyproject.toml file at /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml
+2025-04-06 16:02:58.497 [info] [Info  - 4:02:58 PM] (8571) Pyproject file "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml" has no "[tool.pyright]" section.
+2025-04-06 16:02:58.498 [info] [Info  - 4:02:58 PM] (8571) Setting environmentName for service "FastAPI-ToDoList": "3.12.3 (fastapi-todolist-R83S90s3-py3.12 venv)"
+2025-04-06 16:02:58.498 [info] [Info  - 4:02:58 PM] (8571) Setting pythonPath for service "FastAPI-ToDoList": "/home/shiy/.cache/pypoetry/virtualenvs/fastapi-todolist-R83S90s3-py3.12/bin/python"
+2025-04-06 16:02:58.498 [info] [Info  - 4:02:58 PM] (8571) No include entries specified; assuming /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList
+2025-04-06 16:02:58.498 [info] [Info  - 4:02:58 PM] (8571) Auto-excluding **/node_modules
+2025-04-06 16:02:58.498 [info] [Info  - 4:02:58 PM] (8571) Auto-excluding **/__pycache__
+2025-04-06 16:02:58.498 [info] [Info  - 4:02:58 PM] (8571) Auto-excluding **/.*
+2025-04-06 16:02:58.498 [info] [Error - 4:02:58 PM] (8571) venvPath /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv is not a valid directory.
+2025-04-06 16:02:58.498 [info] [Info  - 4:02:58 PM] (8571) Assuming Python version 3.12.3.final.0
+2025-04-06 16:02:58.516 [info] [Info  - 4:02:58 PM] (8571) Found 3 source files
+2025-04-06 16:03:03.819 [info] [Info  - 4:03:03 PM] (8571) BG: Indexer background runner(8) root directory: file:///home/shiy/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-04-06 16:03:03.819 [info] [Info  - 4:03:03 PM] (8571) BG: Indexing(8) started
+2025-04-06 16:03:04.036 [info] [Info  - 4:03:04 PM] (8571) BG: scanned(8) 13 files over 1 exec env
+2025-04-06 16:03:04.133 [info] [Info  - 4:03:04 PM] (8571) BG: indexed(8) 13 files over 1 exec env
+2025-04-06 16:03:04.148 [info] [Info  - 4:03:04 PM] (8571) BG: Indexing finished(8).
+2025-04-06 16:03:09.013 [info] [Info  - 4:03:09 PM] (8571) Reloading configuration file at /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml
+2025-04-06 16:03:09.014 [info] [Info  - 4:03:09 PM] (8571) Loading pyproject.toml file at /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml
+2025-04-06 16:03:09.014 [info] [Info  - 4:03:09 PM] (8571) Pyproject file "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml" has no "[tool.pyright]" section.
+2025-04-06 16:03:09.014 [info] [Info  - 4:03:09 PM] (8571) Setting environmentName for service "FastAPI-ToDoList": "3.12.3 (fastapi-todolist-R83S90s3-py3.12 venv)"
+2025-04-06 16:03:09.014 [info] [Info  - 4:03:09 PM] (8571) Setting pythonPath for service "FastAPI-ToDoList": "/home/shiy/.cache/pypoetry/virtualenvs/fastapi-todolist-R83S90s3-py3.12/bin/python"
+2025-04-06 16:03:09.014 [info] [Info  - 4:03:09 PM] (8571) No include entries specified; assuming /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList
+2025-04-06 16:03:09.014 [info] [Info  - 4:03:09 PM] (8571) Auto-excluding **/node_modules
+2025-04-06 16:03:09.014 [info] [Info  - 4:03:09 PM] (8571) Auto-excluding **/__pycache__
+2025-04-06 16:03:09.014 [info] [Info  - 4:03:09 PM] (8571) Auto-excluding **/.*
+2025-04-06 16:03:09.015 [info] [Error - 4:03:09 PM] (8571) venvPath /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv is not a valid directory.
+2025-04-06 16:03:09.015 [info] [Info  - 4:03:09 PM] (8571) Assuming Python version 3.12.3.final.0
+2025-04-06 16:03:09.030 [info] [Info  - 4:03:09 PM] (8571) Found 3 source files
+2025-04-06 16:03:14.321 [info] [Info  - 4:03:14 PM] (8571) BG: Indexer background runner(9) root directory: file:///home/shiy/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-04-06 16:03:14.322 [info] [Info  - 4:03:14 PM] (8571) BG: Indexing(9) started
+2025-04-06 16:03:14.546 [info] [Info  - 4:03:14 PM] (8571) BG: scanned(9) 48 files over 1 exec env
+2025-04-06 16:03:14.653 [info] [Info  - 4:03:14 PM] (8571) BG: indexed(9) 48 files over 1 exec env
+2025-04-06 16:03:14.671 [info] [Info  - 4:03:14 PM] (8571) BG: Indexing finished(9).
+2025-04-06 16:03:19.771 [info] [Info  - 4:03:19 PM] (8571) Reloading configuration file at /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml
+2025-04-06 16:03:19.771 [info] [Info  - 4:03:19 PM] (8571) Loading pyproject.toml file at /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml
+2025-04-06 16:03:19.771 [info] [Info  - 4:03:19 PM] (8571) Pyproject file "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml" has no "[tool.pyright]" section.
+2025-04-06 16:03:19.771 [info] [Info  - 4:03:19 PM] (8571) Setting environmentName for service "FastAPI-ToDoList": "3.12.3 (fastapi-todolist-R83S90s3-py3.12 venv)"
+2025-04-06 16:03:19.772 [info] [Info  - 4:03:19 PM] (8571) Setting pythonPath for service "FastAPI-ToDoList": "/home/shiy/.cache/pypoetry/virtualenvs/fastapi-todolist-R83S90s3-py3.12/bin/python"
+2025-04-06 16:03:19.772 [info] [Info  - 4:03:19 PM] (8571) No include entries specified; assuming /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList
+2025-04-06 16:03:19.772 [info] [Info  - 4:03:19 PM] (8571) Auto-excluding **/node_modules
+2025-04-06 16:03:19.772 [info] [Info  - 4:03:19 PM] (8571) Auto-excluding **/__pycache__
+2025-04-06 16:03:19.772 [info] [Info  - 4:03:19 PM] (8571) Auto-excluding **/.*
+2025-04-06 16:03:19.772 [info] [Error - 4:03:19 PM] (8571) venvPath /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv is not a valid directory.
+2025-04-06 16:03:19.772 [info] [Info  - 4:03:19 PM] (8571) Assuming Python version 3.12.3.final.0
+2025-04-06 16:03:19.787 [info] [Info  - 4:03:19 PM] (8571) Found 3 source files
+2025-04-06 16:03:25.083 [info] [Info  - 4:03:25 PM] (8571) BG: Indexer background runner(10) root directory: file:///home/shiy/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-04-06 16:03:25.083 [info] [Info  - 4:03:25 PM] (8571) BG: Indexing(10) started
+2025-04-06 16:03:25.298 [info] [Info  - 4:03:25 PM] (8571) BG: scanned(10) 13 files over 1 exec env
+2025-04-06 16:03:25.379 [info] [Info  - 4:03:25 PM] (8571) BG: indexed(10) 13 files over 1 exec env
+2025-04-06 16:03:25.385 [info] [Info  - 4:03:25 PM] (8571) BG: Indexing finished(10).
+2025-04-06 16:04:14.446 [info] [Info  - 4:04:14 PM] (8571) Reloading configuration file at /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml
+2025-04-06 16:04:14.446 [info] [Info  - 4:04:14 PM] (8571) Loading pyproject.toml file at /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml
+2025-04-06 16:04:14.446 [info] [Info  - 4:04:14 PM] (8571) Pyproject file "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml" has no "[tool.pyright]" section.
+2025-04-06 16:04:14.447 [info] [Info  - 4:04:14 PM] (8571) Setting environmentName for service "FastAPI-ToDoList": "3.12.3 (fastapi-todolist-R83S90s3-py3.12 venv)"
+2025-04-06 16:04:14.447 [info] [Info  - 4:04:14 PM] (8571) Setting pythonPath for service "FastAPI-ToDoList": "/home/shiy/.cache/pypoetry/virtualenvs/fastapi-todolist-R83S90s3-py3.12/bin/python"
+2025-04-06 16:04:14.447 [info] [Info  - 4:04:14 PM] (8571) No include entries specified; assuming /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList
+2025-04-06 16:04:14.447 [info] [Info  - 4:04:14 PM] (8571) Auto-excluding **/node_modules
+2025-04-06 16:04:14.447 [info] [Info  - 4:04:14 PM] (8571) Auto-excluding **/__pycache__
+2025-04-06 16:04:14.447 [info] [Info  - 4:04:14 PM] (8571) Auto-excluding **/.*
+2025-04-06 16:04:14.447 [info] [Error - 4:04:14 PM] (8571) venvPath /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv is not a valid directory.
+2025-04-06 16:04:14.447 [info] [Info  - 4:04:14 PM] (8571) Assuming Python version 3.12.3.final.0
+2025-04-06 16:04:14.461 [info] [Info  - 4:04:14 PM] (8571) Found 3 source files
+2025-04-06 16:04:19.753 [info] [Info  - 4:04:19 PM] (8571) BG: Indexer background runner(11) root directory: file:///home/shiy/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-04-06 16:04:19.753 [info] [Info  - 4:04:19 PM] (8571) BG: Indexing(11) started
+2025-04-06 16:04:19.965 [info] [Info  - 4:04:19 PM] (8571) BG: scanned(11) 48 files over 1 exec env
+2025-04-06 16:04:20.049 [info] [Info  - 4:04:20 PM] (8571) BG: indexed(11) 48 files over 1 exec env
+2025-04-06 16:04:20.069 [info] [Info  - 4:04:20 PM] (8571) BG: Indexing finished(11).
+2025-04-06 16:05:20.190 [info] [Info  - 4:05:20 PM] (8571) Reloading configuration file at /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml
+2025-04-06 16:05:20.190 [info] [Info  - 4:05:20 PM] (8571) Loading pyproject.toml file at /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml
+2025-04-06 16:05:20.190 [info] [Info  - 4:05:20 PM] (8571) Pyproject file "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml" has no "[tool.pyright]" section.
+2025-04-06 16:05:20.190 [info] [Info  - 4:05:20 PM] (8571) Setting environmentName for service "FastAPI-ToDoList": "3.12.3 (fastapi-todolist-R83S90s3-py3.12 venv)"
+2025-04-06 16:05:20.190 [info] [Info  - 4:05:20 PM] (8571) Setting pythonPath for service "FastAPI-ToDoList": "/home/shiy/.cache/pypoetry/virtualenvs/fastapi-todolist-R83S90s3-py3.12/bin/python"
+2025-04-06 16:05:20.190 [info] [Info  - 4:05:20 PM] (8571) No include entries specified; assuming /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList
+2025-04-06 16:05:20.190 [info] [Info  - 4:05:20 PM] (8571) Auto-excluding **/node_modules
+2025-04-06 16:05:20.190 [info] [Info  - 4:05:20 PM] (8571) Auto-excluding **/__pycache__
+2025-04-06 16:05:20.190 [info] [Info  - 4:05:20 PM] (8571) Auto-excluding **/.*
+2025-04-06 16:05:20.190 [info] [Error - 4:05:20 PM] (8571) venvPath /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv is not a valid directory.
+2025-04-06 16:05:20.190 [info] [Info  - 4:05:20 PM] (8571) Assuming Python version 3.12.3.final.0
+2025-04-06 16:05:20.205 [info] [Info  - 4:05:20 PM] (8571) Found 3 source files
+2025-04-06 16:05:25.525 [info] [Info  - 4:05:25 PM] (8571) BG: Indexer background runner(12) root directory: file:///home/shiy/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-04-06 16:05:25.525 [info] [Info  - 4:05:25 PM] (8571) BG: Indexing(12) started
+2025-04-06 16:05:25.771 [info] [Info  - 4:05:25 PM] (8571) BG: scanned(12) 65 files over 1 exec env
+2025-04-06 16:05:26.110 [info] [Info  - 4:05:26 PM] (8571) BG: indexed(12) 65 files over 1 exec env
+2025-04-06 16:05:26.122 [info] [Info  - 4:05:26 PM] (8571) BG: Indexing finished(12).
+2025-04-06 16:07:09.383 [info] [Info  - 4:07:09 PM] (8571) Reloading configuration file at /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml
+2025-04-06 16:07:09.384 [info] [Info  - 4:07:09 PM] (8571) Loading pyproject.toml file at /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml
+2025-04-06 16:07:09.384 [info] [Info  - 4:07:09 PM] (8571) Pyproject file "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/pyproject.toml" has no "[tool.pyright]" section.
+2025-04-06 16:07:09.384 [info] [Info  - 4:07:09 PM] (8571) Setting environmentName for service "FastAPI-ToDoList": "3.12.3 (fastapi-todolist-R83S90s3-py3.12 venv)"
+2025-04-06 16:07:09.384 [info] [Info  - 4:07:09 PM] (8571) Setting pythonPath for service "FastAPI-ToDoList": "/home/shiy/.cache/pypoetry/virtualenvs/fastapi-todolist-R83S90s3-py3.12/bin/python"
+2025-04-06 16:07:09.384 [info] [Info  - 4:07:09 PM] (8571) No include entries specified; assuming /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList
+2025-04-06 16:07:09.385 [info] [Info  - 4:07:09 PM] (8571) Auto-excluding **/node_modules
+2025-04-06 16:07:09.385 [info] [Info  - 4:07:09 PM] (8571) Auto-excluding **/__pycache__
+2025-04-06 16:07:09.385 [info] [Info  - 4:07:09 PM] (8571) Auto-excluding **/.*
+2025-04-06 16:07:09.385 [info] [Error - 4:07:09 PM] (8571) venvPath /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv is not a valid directory.
+2025-04-06 16:07:09.385 [info] [Info  - 4:07:09 PM] (8571) Assuming Python version 3.12.3.final.0
+2025-04-06 16:07:09.401 [info] [Info  - 4:07:09 PM] (8571) Found 3 source files
+2025-04-06 16:07:14.695 [info] [Info  - 4:07:14 PM] (8571) BG: Indexer background runner(13) root directory: file:///home/shiy/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (refresh)
+2025-04-06 16:07:14.695 [info] [Info  - 4:07:14 PM] (8571) BG: Indexing(13) started
+2025-04-06 16:07:14.933 [info] [Info  - 4:07:14 PM] (8571) BG: scanned(13) 48 files over 1 exec env
+2025-04-06 16:07:15.045 [info] [Info  - 4:07:15 PM] (8571) BG: indexed(13) 48 files over 1 exec env
+2025-04-06 16:07:15.060 [info] [Info  - 4:07:15 PM] (8571) BG: Indexing finished(13).

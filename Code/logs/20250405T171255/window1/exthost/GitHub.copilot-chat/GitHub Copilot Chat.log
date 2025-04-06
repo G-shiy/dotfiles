@@ -1,0 +1,41 @@
+2025-04-05 17:13:23.641 [info] Using the Electron fetcher.
+2025-04-05 17:13:23.641 [info] Initializing Git extension service.
+2025-04-05 17:13:23.641 [info] Successfully activated the vscode.git extension.
+2025-04-05 17:13:23.641 [info] Enablement state of the vscode.git extension: true.
+2025-04-05 17:13:23.641 [info] Successfully registered Git commit message provider.
+2025-04-05 17:13:23.738 [warning] GitHub login failed
+2025-04-05 17:13:23.738 [info] copilot token chat_enabled: undefined, sku: 
+2025-04-05 17:13:24.221 [warning] GitHub login failed
+2025-04-05 17:13:24.222 [error] Error: GitHubLoginFailed
+    at gT._authShowWarnings (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:480:55501)
+    at gT.getCopilotToken (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:480:54029)
+    at V5.getCopilotToken (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:423:3590)
+    at MB.waitForChatEnabled (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:441:17603)
+    at MB.run (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:441:17487)
+    at sk.askToUpgradeAuthPermissions (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:441:16858): Failed to get copilot token
+2025-04-05 17:13:24.222 [error] You are not signed in to GitHub. Please sign in to use Copilot.
+2025-04-05 17:13:24.222 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-04-05 17:13:24.222 [error] Error: GitHubLoginFailed
+    at gT._authShowWarnings (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:480:55501)
+    at gT.getCopilotToken (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:480:54029)
+    at V5.getCopilotToken (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:423:3590)
+    at jk._getAuthSession (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:479:3075)
+    at Object.o [as task] (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:479:688)
+    at Tp._processQueue (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:474:3192971)
+2025-04-05 17:13:24.222 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-04-05 17:13:24.222 [error] Error: GitHubLoginFailed
+    at gT._authShowWarnings (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:480:55501)
+    at gT.getCopilotToken (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:480:54029)
+    at V5.getCopilotToken (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:423:3590)
+    at jk._getAuthSession (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:479:3075)
+    at t (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:479:2538)
+    at jk._registerEmbeddings (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:479:3037)
+    at async Promise.all (index 1)
+    at async Promise.allSettled (index 0)
+    at eD.waitForActivationBlockers (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:423:2191)
+    at /home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:2334:5536
+    at ioo (/home/shiy/.vscode/extensions/github.copilot-chat-0.26.0/dist/extension.js:2334:5349)
+    at cw.n (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13415)
+    at cw.m (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:13378)
+    at cw.l (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:12834)
+2025-04-05 17:13:24.222 [info] activationBlocker from 'languageModelAccess' took for 153ms

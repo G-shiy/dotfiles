@@ -1,0 +1,775 @@
+2025-04-05 17:19:05.186 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-04-05 17:19:05.186 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-04-05 17:19:05.201 [warning] Dir "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.pixi/envs" is not watchable (directory does not exist)
+2025-04-05 17:19:05.245 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:05.249 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:05.262 [info] > ./.venv/bin/python -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-05 17:19:05.265 [error] [Error: Command failed: /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python -I /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+/bin/sh: 1: /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python: not found
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:530:35)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python -I /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py'
+}
+2025-04-05 17:19:07.273 [info] > ./.venv/bin/python -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-05 17:19:07.274 [error] [Error: Command failed: /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python -I /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+/bin/sh: 1: /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python: not found
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:530:35)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python -I /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py'
+}
+2025-04-05 17:19:07.673 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-04-05 17:19:07.673 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-04-05 17:19:07.673 [warning] Dir "/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.pixi/envs" is not watchable (directory does not exist)
+2025-04-05 17:19:07.683 [info] Starting Environment refresh
+2025-04-05 17:19:07.684 [info] Starting Environment refresh
+2025-04-05 17:19:08.493 [info] > hatch env show --json
+2025-04-05 17:19:08.493 [info] cwd: .
+2025-04-05 17:19:08.509 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:08.859 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:08.859 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:08.889 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:09.368 [info] > ./.venv/bin/python -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-05 17:19:09.368 [info] Environments refresh paths discovered: 1685 milliseconds
+2025-04-05 17:19:09.368 [info] Environments refresh paths discovered: 1684 milliseconds
+2025-04-05 17:19:09.428 [error] Error: Command failed: /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python -I /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+/bin/sh: 1: /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python: not found
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at ChildProcess.exithandler (node:child_process:423:12)
+    at ChildProcess.emit (node:events:530:35)
+    at maybeClose (node:internal/child_process:1104:16)
+    at Socket.<anonymous> (node:internal/child_process:456:11)
+    at Socket.emit (node:events:518:28)
+    at Pipe.<anonymous> (node:net:343:12) {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python -I /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py'
+}
+2025-04-05 17:19:09.893 [info] Starting Pylance language server.
+2025-04-05 17:19:09.895 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:09.895 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:09.897 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:09.900 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:09.902 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:09.903 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:09.903 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:09.904 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:09.911 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:09.912 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:09.915 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:09.916 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:11.443 [info] > ./.venv/bin/python -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-05 17:19:11.444 [error] Error: Command failed: /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python -I /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+/bin/sh: 1: /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python: not found
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at ChildProcess.exithandler (node:child_process:423:12)
+    at ChildProcess.emit (node:events:530:35)
+    at maybeClose (node:internal/child_process:1104:16)
+    at Socket.<anonymous> (node:internal/child_process:456:11)
+    at Socket.emit (node:events:518:28)
+    at Pipe.<anonymous> (node:net:343:12) {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python -I /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py'
+}
+2025-04-05 17:19:11.445 [info] Environments refresh finished (event): 3761 milliseconds
+2025-04-05 17:19:11.445 [info] Environments refresh finished (event): 3761 milliseconds
+2025-04-05 17:19:11.446 [info] Environment refresh took 3764 milliseconds
+2025-04-05 17:19:11.447 [info] Environment refresh took 3763 milliseconds
+2025-04-05 17:19:11.447 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:11.462 [info] > ~/.pyenv/bin/pyenv which python
+2025-04-05 17:19:11.463 [info] cwd: .
+2025-04-05 17:19:11.464 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:11.502 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:11.502 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:11.502 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:11.503 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:11.503 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:11.503 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:11.505 [info] Starting Pylance language server.
+2025-04-05 17:19:11.507 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:11.508 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:11.509 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:11.509 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:11.510 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:11.510 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:11.511 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:11.512 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:11.513 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:11.513 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:11.514 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:11.514 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:19:13.682 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:19:13.683 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:18.223 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:18.226 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:18.752 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:18.783 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:18.794 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:18.797 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:47.807 [info] Starting Environment refresh
+2025-04-05 17:20:47.807 [info] Searching for interpreters in posix paths locator
+2025-04-05 17:20:47.808 [info] Searching for pyenv environments
+2025-04-05 17:20:47.808 [info] Searching for conda environments
+2025-04-05 17:20:47.808 [info] Searching for global virtual environments
+2025-04-05 17:20:47.808 [info] Searching for custom virtual environments
+2025-04-05 17:20:47.822 [info] > conda info --json
+2025-04-05 17:20:47.823 [info] Finished searching for pyenv environments: 16 milliseconds
+2025-04-05 17:20:47.824 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:47.824 [info] Finished searching for global virtual envs: 17 milliseconds
+2025-04-05 17:20:47.824 [info] Finished searching for custom virtual envs: 17 milliseconds
+2025-04-05 17:20:47.827 [info] Found: /bin/python3 --> /bin/python3.12
+2025-04-05 17:20:47.828 [info] Found: /bin/python3.12 --> /bin/python3.12
+2025-04-05 17:20:47.829 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:47.829 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:47.834 [info] Active interpreter [/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList]:  /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python
+2025-04-05 17:20:47.834 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:47.834 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:47.839 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:47.840 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:47.841 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2025-04-05 17:20:47.841 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2025-04-05 17:20:47.843 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:47.843 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:47.844 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:47.846 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:47.848 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:47.850 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:47.851 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:47.851 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:47.856 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:47.856 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:47.856 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:47.856 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:47.865 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:47.884 [info] Finished searching for interpreters in posix paths locator: 63 milliseconds
+2025-04-05 17:20:47.884 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-05 17:20:47.887 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:47.891 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:47.908 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-05 17:20:47.908 [info] Environments refresh paths discovered (event): 101 milliseconds
+2025-04-05 17:20:47.908 [info] Environments refresh paths discovered: 102 milliseconds
+2025-04-05 17:20:47.909 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:47.910 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:47.912 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:47.913 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:47.914 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:47.939 [info] Environments refresh finished (event): 133 milliseconds
+2025-04-05 17:20:47.942 [info] Environment refresh took 136 milliseconds
+2025-04-05 17:20:51.490 [warning] Failed to check if .venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '.venv/bin/python'
+}
+2025-04-05 17:20:51.492 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:51.492 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:51.492 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:51.492 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:51.493 [warning] Identifier for virt-virtualenv failed to identify .venv/bin/python [Error: ENOENT: no such file or directory, scandir '.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '.venv/bin'
+}
+2025-04-05 17:20:51.494 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:51.494 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:51.494 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:51.494 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:51.510 [info] > .venv/bin/python -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-05 17:20:51.512 [error] Error: Command failed: .venv/bin/python -I /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+/bin/sh: 1: .venv/bin/python: not found
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at ChildProcess.exithandler (node:child_process:423:12)
+    at ChildProcess.emit (node:events:530:35)
+    at maybeClose (node:internal/child_process:1104:16)
+    at Socket.<anonymous> (node:internal/child_process:456:11)
+    at Socket.emit (node:events:518:28)
+    at Pipe.<anonymous> (node:net:343:12) {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: '.venv/bin/python -I /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py'
+}
+2025-04-05 17:20:51.513 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:51.514 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:51.514 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:51.515 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:51.516 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:51.516 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:51.517 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:51.518 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:51.518 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:51.519 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:51.519 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:51.520 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:20:53.526 [info] > .venv/bin/python -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-05 17:20:53.527 [error] Error: Command failed: .venv/bin/python -I /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+/bin/sh: 1: .venv/bin/python: not found
+
+    at genericNodeError (node:internal/errors:984:15)
+    at wrappedFn (node:internal/errors:538:14)
+    at ChildProcess.exithandler (node:child_process:423:12)
+    at ChildProcess.emit (node:events:530:35)
+    at maybeClose (node:internal/child_process:1104:16)
+    at Socket.<anonymous> (node:internal/child_process:456:11)
+    at Socket.emit (node:events:518:28)
+    at Pipe.<anonymous> (node:net:343:12) {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: '.venv/bin/python -I /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py /home/shiy/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py'
+}
+2025-04-05 17:20:53.721 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:20:53.723 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:21:05.247 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:21:05.249 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:21:08.437 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:21:08.439 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:21:17.680 [info] Discover tests for workspace name: FastAPI-ToDoList - uri: /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/fastapi_todolist/app.py
+2025-04-05 17:21:49.655 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:21:49.657 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}
+2025-04-05 17:21:57.484 [warning] Failed to check if /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python is an executable [Error: ENOENT: no such file or directory, lstat '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python'
+}
+2025-04-05 17:21:57.485 [warning] Identifier for virt-virtualenv failed to identify /home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin/python [Error: ENOENT: no such file or directory, scandir '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/shiy/Desktop/Projects/portifolio/FastAPI-template/FastAPI-ToDoList/.venv/bin'
+}

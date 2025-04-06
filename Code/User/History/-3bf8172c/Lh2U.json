@@ -1,0 +1,50 @@
+{
+    // Tema e ícones do VS Code
+    "workbench.colorTheme": "Min Dark",
+    "workbench.iconTheme": "symbols",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.labelFormat": "short",
+    "workbench.statusBar.visible": true,
+    "workbench.colorCustomizations": {
+      "tab.activeBackground": "#202020",
+      "tab.activeForeground": "#ffffff"
+    },
+    "window.titleBarStyle": "native",
+    "workbench.layoutControl.enabled": false,
+  
+    // Configurações do editor
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 12,
+    "editor.lineHeight": 1.6,
+    "editor.rulers": [80, 120],
+    "editor.renderLineHighlight": "gutter",
+    "editor.semanticHighlighting.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+  
+    // Segurança
+    "security.workspace.trust.untrustedFiles": "open",
+  
+    // Configurações do terminal
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "terminal.explorerKind": "external",
+    "terminal.integrated.fontSize": 12,
+  
+    // Explorer e Folders
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false,
+    "window.commandCenter": false,
+    "editor.stickyScroll.enabled": false,
+    "workbench.activityBar.location": "hidden",
+  
+    // Integração com Poetry e Pylance
+    "python.defaultInterpreterPath": ".venv/bin/python",
+    "python.venvPath": "${workspaceFolder}/.venv",
+    "python.analysis.extraPaths": ["./"],
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.useLibraryCodeForTypes": true,
+    "python.analysis.typeCheckingMode": "basic"
+  }
+  
