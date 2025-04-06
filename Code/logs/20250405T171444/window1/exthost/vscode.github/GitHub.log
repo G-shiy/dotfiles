@@ -1,6 +1,3 @@
-2025-04-05 17:14:48.091 [info] Log level: Info
-2025-04-05 17:19:04.875 [info] Log level: Info
-2025-04-05 17:19:09.293 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2025-04-05 17:22:27.219 [info] Log level: Info
-2025-04-05 17:22:30.412 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2025-04-05 17:22:44.288 [info] Log level: Info
+version https://git-lfs.github.com/spec/v1
+oid sha256:669c7a25d1a42ca42dd393bb0a2370a17d10c1abfd574a167e57dc08ff34d305
+size 572

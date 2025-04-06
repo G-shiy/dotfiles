@@ -1,6 +1,3 @@
-2025-04-05 17:18:32.901 [info] Getting Manifest... miguelsolorio.min-theme
-2025-04-05 17:18:32.949 [info] Installing extension: miguelsolorio.min-theme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/shiy/.vscode/extensions/extensions.json","path":"/home/shiy/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.99.0","date":"2025-04-02T21:35:19.530Z"}}
-2025-04-05 17:18:34.143 [info] Extension signature verification result for miguelsolorio.min-theme: Success. Internal Code: 0. Executed: true. Duration: 613ms.
-2025-04-05 17:18:34.155 [info] Extracted extension to file:///home/shiy/.vscode/extensions/miguelsolorio.min-theme-1.5.0: miguelsolorio.min-theme
-2025-04-05 17:18:34.300 [info] Renamed to /home/shiy/.vscode/extensions/miguelsolorio.min-theme-1.5.0
-2025-04-05 17:18:34.367 [info] Extension installed successfully: miguelsolorio.min-theme vscode-userdata:/home/shiy/.vscode/extensions/extensions.json
+version https://git-lfs.github.com/spec/v1
+oid sha256:d470f56eb3e34723840a02f5421b4f6602c455593b0164f05fd32c9f332dcccf
+size 1071

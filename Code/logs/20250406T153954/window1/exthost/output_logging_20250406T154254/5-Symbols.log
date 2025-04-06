@@ -1,5 +1,3 @@
-[INFO 3:42:59 PM] miguelsolorio.symbols activated
-[INFO 3:42:59 PM] 🤖 symbols.defaultAssociations changed, updating to true
-[INFO 3:42:59 PM] 🤖 symbols.hidesExplorerArrows changed, updating to false
-[INFO 3:42:59 PM] 🤖 symbols.folders.associations changed, updating to undefined
-[INFO 3:42:59 PM] 🤖 symbols.files.associations changed, updating to undefined
+version https://git-lfs.github.com/spec/v1
+oid sha256:abbbeb122b781e643ce127cb91fd5de95c7144ddaa53688465f156f4540cbab3
+size 369

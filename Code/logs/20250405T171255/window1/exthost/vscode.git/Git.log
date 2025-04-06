@@ -1,5 +1,3 @@
-2025-04-05 17:12:57.734 [info] [main] Log level: Info
-2025-04-05 17:12:57.734 [info] [main] Validating found git in: "git"
-2025-04-05 17:12:57.734 [info] [main] Using git "2.43.0" from "git"
-2025-04-05 17:12:57.734 [info] [Model][doInitialScan] Initial repository scan started
-2025-04-05 17:12:57.734 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffe0af3d752dacd8cf642a58e354bd7cded84c9c9e93152c75f5e1331d312e36
+size 459

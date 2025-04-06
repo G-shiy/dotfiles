@@ -1,13 +1,3 @@
-[INFO 5:19:05 PM] miguelsolorio.symbols activated
-[INFO 5:19:05 PM] 🤖 symbols.defaultAssociations changed, updating to true
-[INFO 5:19:05 PM] 🤖 symbols.hidesExplorerArrows changed, updating to false
-[INFO 5:19:05 PM] 🤖 symbols.folders.associations changed, updating to undefined
-[INFO 5:19:05 PM] 🤖 symbols.files.associations changed, updating to undefined
-[INFO 5:19:06 PM] 🤖 symbols.defaultAssociations changed, updating to true
-[INFO 5:19:06 PM] 🤖 symbols.hidesExplorerArrows changed, updating to false
-[INFO 5:19:06 PM] 🤖 symbols.folders.associations changed, updating to undefined
-[INFO 5:19:06 PM] 🤖 symbols.files.associations changed, updating to undefined
-[INFO 5:19:07 PM] 🤖 symbols.defaultAssociations changed, updating to true
-[INFO 5:19:07 PM] 🤖 symbols.hidesExplorerArrows changed, updating to false
-[INFO 5:19:07 PM] 🤖 symbols.folders.associations changed, updating to undefined
-[INFO 5:19:07 PM] 🤖 symbols.files.associations changed, updating to undefined
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bbc3e6b3967ae4960af0384bdba470354062e9a8a3945dc9b90f6116c391bce
+size 1007

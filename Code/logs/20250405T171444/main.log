@@ -1,9 +1,3 @@
-2025-04-05 17:14:44.449 [info] update#setState idle
-2025-04-05 17:15:14.431 [info] update#setState checking for updates
-2025-04-05 17:15:14.632 [info] update#setState idle
-2025-04-05 17:18:34.489 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
-2025-04-05 17:19:03.279 [info] Extension host with pid 75983 exited with code: 0, signal: unknown.
-2025-04-05 17:19:03.453 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 75994]: crashed with code 15 and reason 'killed'
-2025-04-05 17:22:25.801 [info] Extension host with pid 77022 exited with code: 0, signal: unknown.
-2025-04-05 17:22:43.173 [info] Extension host with pid 78160 exited with code: 0, signal: unknown.
-2025-04-05 17:22:52.093 [info] Extension host with pid 78291 exited with code: 0, signal: unknown.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5152578f5b5cbe2e56cba0b398d4fc5d637614a845aacca4e67c78958d7ec3e9
+size 785
