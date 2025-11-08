@@ -1,0 +1,65 @@
+## Foreground / Background
+foreground #E5C890
+background #0A0A0C
+
+# Black
+color0  #1C1C24
+color8  #2A2A33
+
+# Red
+color1  #F25F5C
+color9  #FF7B7B
+
+# Green
+color2  #69DCA8
+color10 #7FE3B5
+
+# Yellow
+color3  #E5C890
+color11 #F2D98C
+
+# Blue
+color4  #4DB0FF
+color12 #76C9FF
+
+# Magenta
+color5  #C072FF
+color13 #D89AFF
+
+# Cyan
+color6  #56E9E1
+color14 #6BF2EB
+
+# White
+color7  #C7C9D1
+color15 #E1E3EB
+
+# Cursor
+cursor #FFD700
+cursor_text_color #0A0A0C
+
+# Selection
+selection_foreground none
+selection_background #2B2B36
+
+# URL highlight
+url_color #56E9E1
+
+# Borders
+active_border_color #56E9E1
+inactive_border_color #151515
+bell_border_color #FFD700
+
+# Tab bar
+tab_bar_style fade
+tab_fade 1
+active_tab_foreground   #56E9E1
+active_tab_background   #0A0A0C
+active_tab_font_style   bold
+inactive_tab_foreground #4A4A55
+inactive_tab_background #0A0A0C
+inactive_tab_font_style bold
+tab_bar_background #0A0A0C
+
+# Title bar
+macos_titlebar_color #0A0A0C
